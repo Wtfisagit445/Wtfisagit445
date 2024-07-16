@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning I haven't decided yet
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: just hit me up on discord lil_poverty
-- 😄 Pronouns: IDK
+- 😄 Pronouns: IDC
 - ⚡ Fun fact: IDK wtf a git is
 
 <!---
