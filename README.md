@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wtfisagit445
 - 👀 I’m interested in cyber security and coding
-- 🌱 I’m currently learning: java, html and css
+- 🌱 I’m currently learning: javascipt, html and css
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: just hit me up on discord lil_poverty
 - 😄 Pronouns: IDC
